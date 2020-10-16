@@ -1,2 +1,0 @@
-# punyaku
-Hmmm
